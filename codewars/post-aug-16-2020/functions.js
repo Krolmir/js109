@@ -1,3 +1,5 @@
+
+
 function zero(operation = null) {
   if (operation === null) {
     return 0;
